@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/ark5/projects/sample_app/app'
+let g:netrw_dirhist_2='/home/ark5/projects/telecog/app'
+let g:netrw_dirhist_3='/home/ark5/projects/Cube-Web-Development/test'
+let g:netrw_dirhist_4='/home/ark5/projects/Cube-Web-Development/app'
+let g:netrw_dirhist_5='/home/ark5/.vim/snippets'
+let g:netrw_dirhist_6='/Users/ark5/.vim'
+let g:netrw_dirhist_7='/Users/ark5/Documents/Homework/LearnSprout/python'
+let g:netrw_dirhist_8='/Users/ark5/.vim'
